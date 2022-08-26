@@ -1,0 +1,29 @@
+.containerLangingPage{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../assets/wallpaper.jpg');
+}
+.img{
+    object-fit: cover;
+}
+.Btn{
+    border-radius: 20px;
+    font-size: large;
+    color: white;
+    padding: 15px;
+    font: bold;
+    border: 2px solid white;
+    margin: auto;
+    transition: .2s ease-in-out 0s;
+    background: transparent;
+}
+.Btn:hover{
+    background-color: rgb(244, 87, 233);
+    cursor: pointer;
+    transform: scale(1.25);
+    color: black;
+    border: none
+}

@@ -1,0 +1,23 @@
+
+.ContainerApp{
+  background-color: rgb(167, 167, 240);
+  height: 100%;
+  width: 100%;
+
+}
+.btnBack{
+  text-shadow: none;
+  background-color:black;
+  border-color: white;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+  font-size: 1.5rem;
+  border: 2px solid white;
+  border-radius: 2rem;
+  padding: 0.5em;
+  right: 60rem;
+  top: -16.45rem;
+  cursor:pointer;
+  margin-top: 10px;
+}
